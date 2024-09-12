@@ -12,5 +12,6 @@ int main()
     cin >> x;
     cout << "y = ";
     cin >> y;
+    cout << "Ñóììà = " << x + y;
     return 0;
 }
