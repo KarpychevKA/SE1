@@ -1,4 +1,4 @@
-//This program is just an example one under VCS.
+// This program is just an example one under VCS.
 //Author: Kirill Karpychev, KE-317, 16.09.2024
 #include <iostream>
 
