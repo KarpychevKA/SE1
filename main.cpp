@@ -12,6 +12,6 @@ int main()
     cin >> x;
     cout << "y = ";
     cin >> y;
-    cout << "Сумма = " << x + y;
+    cout << "Сумма = " << x + y << "\nРазность = " << x - y;
     return 0;
 }
