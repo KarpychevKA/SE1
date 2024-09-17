@@ -12,6 +12,7 @@ int main()
     cin >> x;
     cout << "y = ";
     cin >> y;
-    cout << "x + y = " << x + y << "\nx - y = " << x - y << "\nx / y = " << x / y;
+    cout << "x + y = " << x + y
+         << "x - y = " << x - y;
     return 0;
 }
